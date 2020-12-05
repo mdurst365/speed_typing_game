@@ -13,4 +13,4 @@ https://www.youtube.com/watch?v=R-7eQIHRszQ&ab_channel=WebDevSimplified
 
 # Screencap of project
 
-[Screencap of Speed Typing Game](https://raw.githubusercontent.com/mdurst365/speed_typing_game/main/speed_typing.JPG)
+![Screencap of Speed Typing Game](https://raw.githubusercontent.com/mdurst365/speed_typing_game/main/speed_typing.JPG)
